@@ -120,5 +120,4 @@ namespace MeuCorre.Controllers
             return Ok(categoria);
         }
     }
-
 }
